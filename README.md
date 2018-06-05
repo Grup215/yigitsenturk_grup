@@ -1,1 +1,1 @@
-# yigitsenturk_grup
+	Grup üyelerinin tamamý elinden geleni yaptý. Çalýþmalarýmýzý senkron olarak gerçekleþtirdik. Herkes süreçte aktif olmaya çalýþtý. Herkes her görevde elinden geleni yaptý. Bazý görevlerde hepimiz aktif olamadýk, fakat bir baþka görevde oradaki eksikliðimizi tamamladýk. Uyumlu bir olduðumuzu düþünüyoruz çünkü çalýþmalarda birbirimize destek olduk. Süreç içerisinde bilgi paylaþýmý gerçekleþtirdik. Hep birlikte yeni þeyler öðrendik. 
